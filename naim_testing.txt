@@ -1,0 +1,12 @@
+Breakdown of Tasks
+Naim Panjwani
+•    Will extract water levels and quality data based on major instances of climate change to isolate low freshwater locations
+
+Jose Tomines
+•    Will extract conflict data from the Armed Conflict and United Nations datasets based on low freshwater locations
+
+Swati Madan
+•    Will extract Canadian locations with low freshwater from the Canadian Freshwater Quality Monitoring  and Water Office datasets
+
+Mariaveronica Sayewich
+•    Will extract conflict data from Open Government Portal based on low freshwater locations
